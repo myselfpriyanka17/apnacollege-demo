@@ -1,3 +1,3 @@
 # apnacollege-demo
 demo git repo
-Author -Priyanka
+Author -Priyanka Rodrigues
